@@ -1,8 +1,8 @@
 ## Interactive indoor map
 
 Run
-'npm install & npm start'
-'http://localhost:9966/index.html'
+'''npm install & npm start
+http://localhost:9966/index.html'''
 
 
 ## Software
